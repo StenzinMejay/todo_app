@@ -38,5 +38,5 @@ A fully functional **React Todo App** with support for adding, filtering, sortin
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/todo-app.git
+   git clone git@github.com:StenzinMejay/todo_app.git
    cd todo-app
