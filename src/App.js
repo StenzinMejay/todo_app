@@ -1,4 +1,4 @@
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import "./App.css";
 import TodoForm from "./components/TodoForm";
 import TodoList from "./components/TodoList";
@@ -72,8 +72,9 @@ function App() {
           <option value="active">Active</option>
           <option value="completed">Completed</option>
         </select>
-
+         <label htmlFor="priority-select">Priority</label>
         <select
+          id="priority-select"
           value={priorityFilter}
           onChange={(e) => setPriorityFilter(e.target.value)}
         >
