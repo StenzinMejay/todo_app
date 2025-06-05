@@ -1,0 +1,47 @@
+## 📌 Pull Request Summary
+
+<!-- Provide a short summary of your changes. Example: "Added priority filter dropdown and sorting logic to Todo list." -->
+
+---
+
+## 📂 Type of Change
+
+> Please check the relevant option:
+
+- [ ] ✨ New Feature
+- [ ] 🐛 Bug Fix
+- [ ] 🔧 Code Refactor
+- [ ] 📄 Documentation Update
+- [ ] 🚨 Test Coverage Added/Updated
+- [ ] 🧹 Chore (build, dependencies, etc.)
+
+---
+
+## 🔗 Related to Assignment / Issue
+
+- Assignment Link: [Insert assignment URL here]
+- Issue: Closes #[issue_number] (if any)
+
+---
+
+## ✅ Checklist
+
+- [ ] My code builds without errors
+- [ ] I have tested this on the browser locally
+- [ ] Code is linted and formatted
+- [ ] No console warnings/errors
+- [ ] I added/updated tests where necessary
+- [ ] Relevant documentation updated
+- [ ] Screenshots or video demo included (if applicable)
+
+## 🧪 Test Summary
+
+> Describe what testing you did to confirm this works correctly.
+
+- [x] Manual tested in browser (Chrome, Firefox)
+- [x] Added/updated relevant unit tests
+- [x] Tested edge cases (e.g., empty input, large todos, duplicate entries)
+- [x] Verified UI updates after changes
+
+## 📸 Share Screenshot (if available)
+
